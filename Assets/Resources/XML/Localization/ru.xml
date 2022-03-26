@@ -1,0 +1,4 @@
+<localization>
+  <string placement = "loading_label" 	                value = "Загрузка..." />
+  <string placement = "level_label" 	                value = "Уровень" />
+</localization>
